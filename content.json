@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Полтора одноногих ардуимиуса",
+      "value": "https://t.me/arduino_kg"
+    },
+    {
       "label": "ITinKG - сообщество IT специалистов",
       "value": "https://t.me/ITinKG"
     },
