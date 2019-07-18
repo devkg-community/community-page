@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Competitive Programming",
+      "value": "https://t.me/acmkgz"
+    },
+    {
       "label": "Полтора одноногих ардуимиуса",
       "value": "https://t.me/arduino_kg"
     },
