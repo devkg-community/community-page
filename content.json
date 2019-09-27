@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "1С Разработчики в Кыргызстане",
+      "value": "https://t.me/dev1ckg"
+    },
+    {
       "label": "Data Science Bishkek",
       "value": "https://t.me/DataScienceChatBishkek"
     },
