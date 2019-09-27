@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Data Science Bishkek",
+      "value": "https://t.me/DataScienceChatBishkek"
+    },
+    {
       "label": "Competitive Programming",
       "value": "https://t.me/acmkgz"
     },
