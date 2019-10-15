@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Дизайнеры KG",
+      "value": "https://t.me/designkg"
+    },
+    {
       "label": "1С Разработчики в Кыргызстане",
       "value": "https://t.me/dev1ckg"
     },
