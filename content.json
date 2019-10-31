@@ -127,6 +127,10 @@
     {
       "label": "Mad Devs",
       "value": "https://t.me/maddevsio"
+    },
+    {
+      "label": "LMNdeit",
+      "value": "https://t.me/lmdneitkg"
     }
   ],
   "websites": [
@@ -137,6 +141,10 @@
     {
       "label": "PyCon Kyrgyzstan",
       "value": "http://pyconkg.com"
+    },
+    {
+      "label": "LMNdeit",
+      "value": "http://lmndeit.kg/"
     }
   ],
   "facebook": [
