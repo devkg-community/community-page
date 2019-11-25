@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Motion KG",
+      "value": "https://t.me/motion_kg"
+    },
+    {
       "label": "Дизайнеры KG",
       "value": "https://t.me/designkg"
     },
