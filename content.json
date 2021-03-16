@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Сообщество Angular-разработчиков",
+      "value": "https://t.me/angular_kg"
+    },
+    {
       "label": "FlutterKG",
       "value": "https://t.me/flutter_kg"
     },
