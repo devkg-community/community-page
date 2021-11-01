@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "caisertalks — IT&Business",
+      "value": "https://t.me/caisertalks"
+    },
+    {
       "label": "HR in IT KG",
       "value": "https://t.me/hrit_kg"
     },
