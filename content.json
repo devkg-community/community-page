@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "HR in IT KG",
+      "value": "https://t.me/hrit_kg"
+    },
+    {
       "label": "Сообщество Angular-разработчиков",
       "value": "https://t.me/angular_kg"
     },
