@@ -137,6 +137,10 @@
   ],
   "telegram_channels": [
     {
+      "label": "Всё о Python",
+      "value": "https://t.me/python_itkg"
+    },
+    {
       "label": "Spalmalo Tech Talks",
       "value": "https://t.me/spalmalo_tt"
     },
