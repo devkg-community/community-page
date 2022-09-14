@@ -133,6 +133,10 @@
     {
       "label": "Upwork",
       "value": "https://t.me/upworkkyrgyzstan"
+    },
+    {
+      "label": "Coding Bishkek",
+      "value": "https://t.me/codingbishkek"
     }
   ],
   "telegram_channels": [
