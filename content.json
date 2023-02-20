@@ -76,7 +76,7 @@
     },
     {
       "label": "DevKG город Ош",
-      "value": "https://t.me/oshdevkg"
+      "value": "https://t.me/oshdevs"
     },
     {
       "label": "JavaScript Developers",
@@ -155,6 +155,14 @@
     {
       "label": "LMNdeit",
       "value": "https://t.me/lmdneitkg"
+    },
+    {
+      "label": "PROlab",
+      "value": "https://t.me/prolabkg"
+    },
+    {
+      "label": "GDG Osh",
+      "value": "https://t.me/gdg_osh"
     }
   ],
   "websites": [
