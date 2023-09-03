@@ -137,6 +137,10 @@
     {
       "label": "Coding Bishkek",
       "value": "https://t.me/codingbishkek"
+    },
+    {
+      "label": "Java Developers",
+      "value": "https://t.me/java_devs_kg"
     }
   ],
   "telegram_channels": [
