@@ -137,6 +137,10 @@
     {
       "label": "Coding Bishkek",
       "value": "https://t.me/codingbishkek"
+    },
+    {
+      "label": "React KG",
+      "value": "https://t.me/React_community_kg"
     }
   ],
   "telegram_channels": [
