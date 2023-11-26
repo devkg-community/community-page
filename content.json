@@ -14,7 +14,7 @@
     },
     {
       "label": "Видеоконференции",
-      "value": "https://telegram.me/devmeetups"
+      "value": "https://telegram.me/devmeets"
     },
     {
       "label": "Relocate & Remote",
@@ -22,10 +22,6 @@
     }
   ],
   "telegram_chats": [
-    {
-      "label": "caisertalks — IT&Business",
-      "value": "https://t.me/caisertalks"
-    },
     {
       "label": "HR in IT KG",
       "value": "https://t.me/hrit_kg"
@@ -41,10 +37,6 @@
     {
       "label": "Motion KG",
       "value": "https://t.me/motion_kg"
-    },
-    {
-      "label": "Дизайнеры KG",
-      "value": "https://t.me/designkg"
     },
     {
       "label": "1С Разработчики в Кыргызстане",
@@ -115,10 +107,6 @@
       "value": "https://telegram.me/programmingclub"
     },
     {
-      "label": "KG Linux Users Group",
-      "value": "https://telegram.me/lug_kg"
-    },
-    {
       "label": "QA",
       "value": "https://t.me/testkg"
     },
@@ -153,24 +141,8 @@
       "value": "https://t.me/python_itkg"
     },
     {
-      "label": "Spalmalo Tech Talks",
-      "value": "https://t.me/spalmalo_tt"
-    },
-    {
-      "label": "Technologic",
-      "value": "https://t.me/technologique"
-    },
-    {
       "label": "Mad Devs",
       "value": "https://t.me/maddevsio"
-    },
-    {
-      "label": "LMNdeit",
-      "value": "https://t.me/lmdneitkg"
-    },
-    {
-      "label": "PROlab",
-      "value": "https://t.me/prolabkg"
     },
     {
       "label": "GDG Osh",
@@ -181,14 +153,6 @@
     {
       "label": "Lance.kg",
       "value": "http://lance.kg"
-    },
-    {
-      "label": "PyCon Kyrgyzstan",
-      "value": "http://pyconkg.com"
-    },
-    {
-      "label": "LMNdeit",
-      "value": "http://lmndeit.kg/"
     }
   ],
   "facebook": [
@@ -203,10 +167,6 @@
     {
       "label": "Bitcoin and Blockchain Kyrgyzstan",
       "value": "https://www.facebook.com/groups/bitcoinkyrgyzstan"
-    },
-    {
-      "label": "Competitive Programming in KGZ",
-      "value": "https://www.facebook.com/groups/219510421522554"
     }
   ],
   "youtube": [
