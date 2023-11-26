@@ -141,6 +141,10 @@
     {
       "label": "React KG",
       "value": "https://t.me/React_community_kg"
+    },
+    {
+      "label": "Data Engineering KG",
+      "value": "https://t.me/data_engineering_kg"
     }
   ],
   "telegram_channels": [
