@@ -23,6 +23,14 @@
   ],
   "telegram_chats": [
     {
+      "label": "React KG",
+      "value": "https://t.me/React_Community_KG"
+    },
+    {
+      "label": "React Native KG",
+      "value": "https://t.me/React_Native_Community_KG"
+    },
+    {
       "label": "HR in IT KG",
       "value": "https://t.me/hrit_kg"
     },
@@ -125,10 +133,6 @@
     {
       "label": "Coding Bishkek",
       "value": "https://t.me/codingbishkek"
-    },
-    {
-      "label": "React KG",
-      "value": "https://t.me/React_community_kg"
     },
     {
       "label": "Data Engineering KG",
