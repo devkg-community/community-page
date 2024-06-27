@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Java Developers",
+      "value": "https://t.me/JavaDays"
+    },
+    {
       "label": "React KG",
       "value": "https://t.me/React_Community_KG"
     },
