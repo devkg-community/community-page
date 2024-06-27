@@ -31,10 +31,6 @@
       "value": "https://t.me/vuejs_bishkek_chat"
     },
     {
-      "label": "React KG",
-      "value": "https://t.me/React_Community_KG"
-    },
-    {
       "label": "React Native KG",
       "value": "https://t.me/React_Native_Community_KG"
     },
@@ -149,10 +145,6 @@
   ],
   "telegram_channels": [
     {
-      "label": "Всё о Python",
-      "value": "https://t.me/python_itkg"
-    },
-    {
       "label": "Mad Devs",
       "value": "https://t.me/maddevsio"
     },
@@ -204,10 +196,6 @@
     }
   ],
   "github": [
-    {
-      "label": "Devskg",
-      "value": "https://github.com/devskg"
-    },
     {
       "label": "DevKG community",
       "value": "https://github.com/devkg-community"
