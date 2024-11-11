@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Agile Kyrgyzstan",
+      "value": "https://t.me/agilekg"
+    },
+    {
       "label": "Java Developers",
       "value": "https://t.me/JavaDays"
     },
