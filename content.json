@@ -149,6 +149,10 @@
   ],
   "telegram_channels": [
     {
+      "label": "Книжный клуб Мона Лиза",
+      "value": "https://t.me/mona_lisa_312"
+    },
+    {
       "label": "Mad Devs",
       "value": "https://t.me/maddevsio"
     },
