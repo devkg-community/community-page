@@ -23,6 +23,10 @@
   ],
   "telegram_chats": [
     {
+      "label": "Mobile Republic - Flutter, Android, iOS",
+      "value": "https://t.me/mobilerepublic"
+    },
+    {
       "label": "Agile Kyrgyzstan",
       "value": "https://t.me/agilekg"
     },
