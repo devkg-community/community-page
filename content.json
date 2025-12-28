@@ -149,6 +149,10 @@
   ],
   "telegram_channels": [
     {
+      "label": "Data Engineer Jobs KG",
+      "value": "https://t.me/datajobskg"
+    },
+    {
       "label": "Книжный клуб Мона Лиза",
       "value": "https://t.me/mona_lisa_312"
     },
