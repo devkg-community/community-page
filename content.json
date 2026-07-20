@@ -153,6 +153,10 @@
   ],
   "telegram_channels": [
     {
+  "label": "Шайтан-Арба",
+  "value": "https://t.me/shaitan_arba_KG"
+},
+    {
       "label": "Data Engineer Jobs KG",
       "value": "https://t.me/datajobskg"
     },
